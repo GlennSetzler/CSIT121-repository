@@ -1,0 +1,11 @@
+body {background-color: #ff8c1a; text-align: center;}
+h3 {background-color: #ffff00;}
+li {color: #0000e6}
+h1 {font-family: papyrus;}
+h2 {font-family: lucida handwriting;}
+ul {background-color: #33cc33; width: 80%}
+ol {background-color: #33cc33; width: 80%}
+a:link { color: #ff0000;}
+a:hover { text-decoration: none; color: #000066; }
+a:visited {color: #00FF00;}
+p {position: fixed; position: relative; left: 1px;}
